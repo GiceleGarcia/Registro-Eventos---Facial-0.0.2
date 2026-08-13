@@ -5,7 +5,7 @@ module.exports = {
 
             IP: '10.1.26.168',
 
-            NUMSER: 'FK2665724'
+            NUMSER: 'FK9999999'
 
         },
         
@@ -13,14 +13,14 @@ module.exports = {
 
             IP: '10.1.26.170',
 
-            NUMSER: 'FK1163546'
+            NUMSER: 'FK9999999'
 
         }
 
     ],
 
-    USER: 'admin',
+    USER: 'user',
 
-    PASSWORD: '@%esy150',
+    PASSWORD: 'pass',
 
 };
