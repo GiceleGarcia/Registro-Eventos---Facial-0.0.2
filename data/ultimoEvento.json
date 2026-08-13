@@ -1,0 +1,12 @@
+[
+    {
+        "terminal": "Beneficio 2",
+        "ip": "10.1.26.168",
+        "ultimoSerial": 976
+    },
+    {
+        "terminal": "Beneficio 1",
+        "ip": "10.1.26.170",
+        "ultimoSerial": 674
+    }
+]
