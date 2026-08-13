@@ -1,7 +1,0 @@
-[2026-08-13 08:04:59.030] [FK9999999] REMOVER 111111 - FALHA AO REMOVER USUARIO: {
-	"statusCode":	2,
-	"statusString":	"Device Busy",
-	"subStatusCode":	"deviceBusy",
-	"errorCode":	536870916,
-	"errorMsg":	"employeeNo"
-}
