@@ -19,18 +19,18 @@ module.exports = getKnex = () => {
 
             connection: {
 
-                user: 'vetorh',
+                user: 'user',
 
-                password: 'vetorh',
+                password: 'pass',
 
-                database: 'vetorh',
+                database: 'database',
 
                 connectString:
                     `(DESCRIPTION=
                         (ADDRESS=
                             (PROTOCOL=TCP)
-                            (Host=10.99.1.19)
-                            (Port=1539)
+                            (Host=10.99.99.99)
+                            (Port=9999)
                         )
                         (CONNECT_DATA=
                             (SID=ORCL)
